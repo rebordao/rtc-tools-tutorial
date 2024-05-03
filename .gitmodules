@@ -1,0 +1,3 @@
+[submodule "rtc-tools-skeleton-example"]
+	path = rtc-tools-skeleton-example
+	url = https://github.com/jbaayen/rtc-tools-skeleton-example.git

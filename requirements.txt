@@ -1,0 +1,8 @@
+antlr4-python3-runtime==4.7.2
+casadi==3.6.5
+defusedxml==0.7.1
+numpy==1.25.2
+pymoca==0.9.1
+rtc-tools==2.6.1
+rtc-tools-channel-flow==1.1.2
+scipy==1.10.1
