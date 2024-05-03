@@ -1,8 +1,0 @@
-#!/Users/Antonio.A.Rebordao/workspace/rtc-tools-tutorial/.venv/bin/python3
-# -*- coding: utf-8 -*-
-import re
-import sys
-from rtctools.rtctoolsapp import copy_libraries
-if __name__ == '__main__':
-    sys.argv[0] = re.sub(r'(-script\.pyw|\.exe)?$', '', sys.argv[0])
-    sys.exit(copy_libraries())
